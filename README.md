@@ -21,9 +21,9 @@ Writing input to SQL doesn't work (properly), so this sorta uses a "nosql" datab
 
 ``templates/`` - HTML
 
-&nbsp;&nbsp;&nbsp;&nbsp;``templates/booking.html`` - Booking page (127.0.0.1:5000/booking)[127.0.0.1:500/booking]
+&nbsp;&nbsp;&nbsp;&nbsp;``templates/booking.html`` - Booking page [127.0.0.1:5000/booking](127.0.0.1:500/booking)
 
-&nbsp;&nbsp;&nbsp;&nbsp;``templates/index.html`` - Main page (127.0.0.1:5000/)[127.0.0.1:5000/]
+&nbsp;&nbsp;&nbsp;&nbsp;``templates/index.html`` - Main page [127.0.0.1:5000/](127.0.0.1:5000/)
 
 ``db.py`` - Database writer
 
