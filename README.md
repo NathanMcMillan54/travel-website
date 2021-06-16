@@ -1,2 +1,1 @@
-# travel-website
-A website for a school project
+This is a Flask app for a project at school
