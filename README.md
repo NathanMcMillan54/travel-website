@@ -25,6 +25,10 @@ Writing input to SQL doesn't work (properly), so this sorta uses a "nosql" datab
 
 &nbsp;&nbsp;&nbsp;&nbsp;``templates/index.html`` - Main page (127.0.0.1:5000/)[127.0.0.1:5000/]
 
+``db.py`` - Database writer
+
+``main.py`` - Starts Flask server
+
 #### Install
 
 ```commandline
