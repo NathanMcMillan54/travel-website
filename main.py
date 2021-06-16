@@ -1,6 +1,7 @@
 from flask import Flask, render_template, request
 import db
 
+id_number = 0
 
 app = Flask(__name__)
 

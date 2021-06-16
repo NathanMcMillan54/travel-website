@@ -1,0 +1,6 @@
+# This is everything from the database (db/main_db.sql)
+# In the future turn this into something like a Rust byte
+#
+
+"test" "TEst" "TRESEASRF"
+"AERGQAER" "WEterWRG" "qaergfqer"
