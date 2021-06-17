@@ -7,7 +7,7 @@ Writing input to SQL doesn't work (properly), so this sorta uses a "nosql" datab
 #### Project structure
 ``db/`` - Data Base
 
-&nbsp;&nbsp;&nbsp;&nbsp;``db/byte_db.txt`` - User input text database
+&nbsp;&nbsp;&nbsp;&nbsp;``db/byte_db.txt`` - Text data base
 
 &nbsp;&nbsp;&nbsp;&nbsp;``db/empty_main_db.sql`` - Should be the database
 
